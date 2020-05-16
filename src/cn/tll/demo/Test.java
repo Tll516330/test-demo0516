@@ -10,6 +10,7 @@ public class Test {
         System.out.println(num);
         for (int i = 1; i <= num; i++) {
             System.out.println("田亮亮最帅"+i);
+            System.out.println("你可真棒");
         }
 
     }
